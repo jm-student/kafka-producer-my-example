@@ -30,6 +30,7 @@ public class KafkaProducerMyExampleApplication {
     }
 
 // commit
+    // smth else
 }
 
 
