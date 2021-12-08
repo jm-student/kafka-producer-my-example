@@ -33,7 +33,10 @@ public class KafkaProducerMyExampleApplication {
     // smth else
     // 3 change
     // 5
-    // 6
+    //7 что будет
+    //12
+    //13
+    //14
 }
 
 
